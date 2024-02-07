@@ -17,6 +17,17 @@ I'm **msahalkc**, a final year BTech student majoring in Computer Science and En
 - **Higher Secondary**
   - AKG Smaraka Government Higher Secondary School, Peralassery (2018-2020)
 
+ ### 🚀 Leadership Experience
+
+- **Chief Technical Officer**
+  - IEDC MESCE, July 2023 - Present
+  - Led technology initiatives, fostering innovation, and driving impactful solutions for IEDC MESCE.
+
+- **Assistant Creative Officer**
+  - IEDC MESCE, July 2022 - June 2023
+  - Drove visual storytelling, design, and multimedia initiatives, amplifying the non-profit’s mission and fostering engagement within the college community.
+
+
 
 ### 🌐 Connect with Me
 
