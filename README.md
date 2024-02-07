@@ -9,6 +9,15 @@ I'm **msahalkc**, a final year BTech student majoring in Computer Science and En
 - 🚀 On my GitHub profile, you'll find a collection of my projects, ranging from simple scripts to full-fledged applications.
 - 💡 I believe in the power of open source and collaboration and am always eager to contribute to meaningful projects and engage with the vibrant developer community.
 
+### 🎓 Education
+
+- **Bachelor of Technology in Computer Science and Engineering**
+  - MES College of Engineering, Kuttippuram (2020-2024)
+
+- **Higher Secondary**
+  - AKG Smaraka Government Higher Secondary School, Peralassery (2018-2020)
+
+
 ### 🌐 Connect with Me
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Let's connect, collaborate, and create together!
