@@ -14,5 +14,5 @@ I'm **msahalkc**, a final year BTech student majoring in Computer Science and En
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Let's connect, collaborate, and create together!
 
 [![GitHub](https://img.shields.io/badge/GitHub-msahalkc-181717?style=flat&logo=github)](https://github.com/msahalkc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-msahalkc-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahalkc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-msahalkc-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahalkc)
 
