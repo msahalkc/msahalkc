@@ -1,6 +1,6 @@
 ### 👋 Hey there!
 
-I'm **msahalkc**, a final year BTech student majoring in Computer Science and Engineering at MES College of Engineering, Kuttippuram. 🎓
+I'm **Muhammed Sahal K C**, a final year BTech student majoring in Computer Science and Engineering at MES College of Engineering, Kuttippuram. 🎓
 
 ### 💻 About Me
 
