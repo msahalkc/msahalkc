@@ -10,9 +10,9 @@ Here are some of the best repositories from my profile, handpicked based on thei
 
 2. **[KTU-Result-Viewer](https://github.com/msahalkc/KTU-Result-Viewer)** - A TypeScript-based application to view and analyze results of Kerala Technological University examinations.
 
-3. **[JavaScript](https://github.com/msahalkc/JavaScript)** - A collection of JavaScript-based projects, including a Google Calendar clone, QMS, and various other tools and utilities.
+3. **[JavaScript](https://github.com/msahalkc/)** - A collection of JavaScript-based projects, including a Google Calendar clone, QMS, and various other tools and utilities.
 
-4. **[React](https://github.com/msahalkc/React)** - A collection of React-based projects, including todo-react, navigate-react, namaste-react, and cl-react-portfolio.
+4. **[React](https://github.com/msahalkc/)** - A collection of React-based projects, including todo-react, navigate-react, namaste-react, and cl-react-portfolio.
 
 ## Connect with Me
 
