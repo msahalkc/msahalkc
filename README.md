@@ -47,7 +47,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions. Let's connect, collaborate, and create together!
 
-<p>
+<p style={width:50%;}>
   <img src="https://github-readme-stats-blue-chi.vercel.app/api?username=msahalkc&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
   <img src="https://github-readme-stats-blue-chi.vercel.app/api/top-langs/?username=msahalkc&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
 </p>
